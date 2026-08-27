@@ -81,25 +81,6 @@ public class Leonardo {
 
 ---
 
-## 📈 Nível de experiência
-
-<div align="center">
-
-| Tecnologia | Nível | |
-|:---|:---|:---|
-| **Java** | Em desenvolvimento | ![](https://geps.dev/progress/65?dangerColor=E8C87E&warningColor=E8C87E&successColor=E8C87E) |
-| **Spring Boot** | Em desenvolvimento | ![](https://geps.dev/progress/55?dangerColor=E8C87E&warningColor=E8C87E&successColor=E8C87E) |
-| **Python** | Em desenvolvimento | ![](https://geps.dev/progress/60?dangerColor=E8C87E&warningColor=E8C87E&successColor=E8C87E) |
-| **JavaScript** | Aprendendo | ![](https://geps.dev/progress/45?dangerColor=E8C87E&warningColor=E8C87E&successColor=E8C87E) |
-| **HTML / CSS / Bootstrap** | Confortável | ![](https://geps.dev/progress/70?dangerColor=E8C87E&warningColor=E8C87E&successColor=E8C87E) |
-| **SQLite / MongoDB** | Aprendendo | ![](https://geps.dev/progress/50?dangerColor=E8C87E&warningColor=E8C87E&successColor=E8C87E) |
-
-</div>
-
-> 💡 Ajuste as porcentagens acima conforme você evoluir — é só trocar o número na URL.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -139,19 +120,19 @@ public class Leonardo {
 
 <div align="center">
 
-<!-- Substitua NOME-DO-REPO pelos seus repositórios reais -->
-<a href="https://github.com/leonardoMartins-Dev/NOME-DO-REPO">
-  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="Projeto 1"/>
+<a href="https://github.com/leonardoMartins-Dev/ClimaAPI">
+  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&theme=tokyonight&hide_border=true&title_color=E8C87E&repo=ClimaAPI" alt="ClimaAPI"/>
 </a>
-<a href="https://github.com/leonardoMartins-Dev/NOME-DO-REPO-2">
-  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="Projeto 2"/>
+
+<a href="https://github.com/leonardoMartins-Dev/Gestor-de-Funcionarios-CRUD-Python-e-SQLite-">
+  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&theme=tokyonight&hide_border=true&title_color=E8C87E&repo=Gestor-de-Funcionarios-CRUD-Python-e-SQLite-" alt="Gestor de Funcionarios - CRUD Python e SQLite"/>
+</a>
+
+<a href="https://github.com/leonardoMartins-Dev/wanderlust">
+  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&theme=tokyonight&hide_border=true&title_color=E8C87E&repo=wanderlust" alt="Wanderlust"/>
 </a>
 
 </div>
-
-> 🔧 Troque `NOME-DO-REPO` pelo nome exato dos repositórios que você quiser destacar. Se ainda não tiver projetos publicados, pode remover essa seção por enquanto.
-
----
 
 ## 🐍 Gráfico de contribuições
 
