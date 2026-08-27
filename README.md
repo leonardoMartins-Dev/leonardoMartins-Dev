@@ -1,39 +1,82 @@
-# Olá, eu sou o Leonardo 👋
+<h1 align="center">Olá, eu sou o Leonardo Martins 👋</h1>
 
-Estudante de Engenharia de Software na **PUC Minas** (campus Coração Eucarístico), atualmente no início da graduação. Estou construindo minha base em programação.
+<h3 align="center">🎓 Estudante de Engenharia de Software na PUC Minas</h3>
 
-## 🎯 Sobre mim
-
-- 🎓 Cursando Engenharia de Software na PUC Minas(Coracão Eucarístico)
-- 💻 Aprendendo e praticando Python, HTML, CSS, JS e Bootstrap
-- 🔭 Focando meus estudos em desenvolvimento back-end e ciência/engenharia de dados
-- 🌱 Aberto a oportunidades de estágio e projetos para aplicar o que estou aprendendo
-- 📫 Contato: [Leo.euricobete@gmail.com ou LinkedIn(https://www.linkedin.com/in/leoziz-036969401/)]
-
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📌 Projetos em destaque
-
-- **[Exercícios-Python-PUC](https://github.com/LeoZIZ12/exercicios-python-puc)** —  Repositório com exercícios de Python organizados por disciplina, feitos ao longo do primeiro semestre.
--  [Wanderlust](https://github.com/LeoZIZ12/wanderlust)—
-
-    Catálogo web de destinos turísticos com autenticação de usuários, sistema de favoritos, permissões de administrador e CRUD completo         (criar, editar e excluir destinos) consumindo uma API REST simulada. Inclui busca, filtros por categoria, carrossel de destaques e mapa     interativo.
-    
-    `HTML` `CSS` `JavaScript` `JSON Server` `Bootstrap` `Mapbox GL`
-    
-    Esse é o projeto que reúne os principais fundamentos que aprendi no 1º período: consumo de API REST (GET, POST, PUT, DELETE),               autenticação, controle de sessão e manipulação avançada do DOM — todas as operações da API foram testadas e documentadas via Postman        antes da integração com a interface.
-
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://img.shields.io/badge/PUC%20Minas-Eng.%20Software-8B0000?style=for-the-badge" alt="PUC Minas"/>
+  <img src="https://img.shields.io/badge/Início-Jan%202026-black?style=for-the-badge" alt="Início do curso"/>
+</p>
 
 ---
-_Perfil em construção — sempre aprendendo algo novo._
+
+### 👨‍💻 Sobre mim
+
+- 🎓 Curso Engenharia de Software na **PUC Minas**, comecei em **janeiro de 2026**.
+- 💻 Estudando **desenvolvimento back-end e front-end**, com foco em Java/Spring Boot e Python.
+- 🌱 Aprendendo bancos de dados relacionais e não relacionais (SQLite, MongoDB).
+- ⚡ Sempre em busca de novos projetos para praticar e evoluir.
+- 📫 Me encontre pelo e-mail: **leo.euricobete@gmail.com**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Redes e Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/leonardo-martins-macedo-036969401/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:leo.euricobete@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_leomartins_007/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardoMartins-Dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoMartins-Dev&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoMartins-Dev&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
+### ⌚ WakaTime — Tempo de código
+
+<p align="left">
+  <img src="https://wakatime.com/badge/user/SEU_USER_ID_WAKATIME.svg" alt="Total time coded"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=dark&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+</p>
+
+> ⚠️ O usuário do WakaTime (perfil) pode ter o mesmo nome que você escolheu ao criar a conta em wakatime.com — troque `SEU_USUARIO_WAKATIME` e `SEU_USER_ID_WAKATIME` (acima) pelos seus dados reais depois de conectar a extensão.
+</p>
+
+---
+
+<p align="center"><i>Em constante aprendizado 🚀</i></p>
