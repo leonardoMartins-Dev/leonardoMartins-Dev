@@ -104,8 +104,8 @@ public class Leonardo {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardoMartins-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&title_color=E8C87E&icon_color=E8C87E" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoMartins-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br&title_color=E8C87E" alt="Linguagens mais usadas"/>
+<img height="170" src="https://github-readme-stats-xi-three-25.vercel.app/api?username=leonardoMartins-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&title_color=E8C87E&icon_color=E8C87E" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-xi-three-25.vercel.app/api/top-langs/?username=leonardoMartins-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br&title_color=E8C87E" alt="Linguagens mais usadas"/>
 
 <br/><br/>
 
@@ -127,7 +127,7 @@ public class Leonardo {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Tempo%20por%20linguagem&title_color=E8C87E" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats-xi-three-25.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Tempo%20por%20linguagem&title_color=E8C87E" alt="WakaTime Stats"/>
 
 </div>
 
@@ -141,10 +141,10 @@ public class Leonardo {
 
 <!-- Substitua NOME-DO-REPO pelos seus repositórios reais -->
 <a href="https://github.com/leonardoMartins-Dev/NOME-DO-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="Projeto 1"/>
+  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="Projeto 1"/>
 </a>
 <a href="https://github.com/leonardoMartins-Dev/NOME-DO-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="Projeto 2"/>
+  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="Projeto 2"/>
 </a>
 
 </div>
