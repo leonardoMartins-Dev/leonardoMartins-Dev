@@ -67,14 +67,14 @@
 ### ⌚ WakaTime — Tempo de código
 
 <p align="left">
-  <img src="https://wakatime.com/badge/user/SEU_USER_ID_WAKATIME.svg" alt="Total time coded"/>
+  <img src="https://wakatime.com/badge/user/04390ede-0822-4ccb-b50a-1da351ecb3ad.svg" alt="Total time coded"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=dark&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=dark&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </p>
 
-> ⚠️ O usuário do WakaTime (perfil) pode ter o mesmo nome que você escolheu ao criar a conta em wakatime.com — troque `SEU_USUARIO_WAKATIME` e `SEU_USER_ID_WAKATIME` (acima) pelos seus dados reais depois de conectar a extensão.
+> ℹ️ Como sua conta ainda não tem histórico de código registrado, esses badges podem aparecer vazios ou com "0 secs" por enquanto. Assim que você instalar a extensão do WakaTime no editor e programar um pouco, eles passam a mostrar dados reais automaticamente — não precisa mudar nada no código do README.
 </p>
 
 ---
