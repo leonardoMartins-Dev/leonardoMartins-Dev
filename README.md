@@ -142,22 +142,7 @@ public class Leonardo {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoMartins-Dev&theme=tokyo-night&hide_border=true&area=true&color=E8C87E&line=E8C87E&point=ffffff" alt="Gráfico de atividade"/>
 
-</div>
 
----
-
-## 🎯 Metas para 2026
-
-- [ ] Concluir o primeiro ano de Engenharia de Software
-- [ ] Publicar pelo menos 5 projetos completos no GitHub
-- [ ] Aprofundar em Spring Boot construindo uma API REST completa
-- [ ] Aprender testes automatizados (JUnit)
-- [ ] Contribuir em um projeto open source
-- [ ] Manter constância nos commits e no WakaTime
-
----
-
-<div align="center">
 
 ### 💬 Vamos conversar?
 
