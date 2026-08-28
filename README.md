@@ -54,9 +54,9 @@ public class Leonardo {
 
 - 🎓 Estudo **Engenharia de Software na PUC Minas**, turma iniciada em **janeiro de 2026**.
 - 💻 Foco atual em **Java + Spring Boot** no back-end e fundamentos de **front-end**.
-- 🗄️ Trabalhando com bancos **relacionais (SQLite)** e **NoSQL (MongoDB)**.
-- 🌱 Sempre construindo projetos pequenos para fixar o que aprendo na prática.
-- 💬 Aberto a colaborar em projetos acadêmicos e trocar ideia sobre desenvolvimento.
+- 🗄️ Estudando bancos **relacionais (SQLite)** e **NoSQL (MongoDB)**.
+- 🌱 Sempre construindo projetos para fixar o que aprendo na prática.
+- 💬 Aberto para vagas de estágio e trocar ideia sobre desenvolvimento.
 - 📫 Contato: **leo.euricobete@gmail.com**
 
 ---
