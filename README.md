@@ -54,9 +54,9 @@ public class Leonardo {
 
 - 🎓 Estudo **Engenharia de Software na PUC Minas**, turma iniciada em **janeiro de 2026**.
 - 💻 Foco atual em **Java + Spring Boot** no back-end e fundamentos de **front-end**.
-- 🗄️ Estudando bancos **relacionais (SQLite)** e **NoSQL (MongoDB)**.
-- 🌱 Sempre construindo projetos para fixar o que aprendo na prática.
-- 💬 Aberto para vagas de estágio e trocar ideia sobre desenvolvimento.
+- 🗄️ Trabalhando com bancos **relacionais (SQLite)** e **NoSQL (MongoDB)**.
+- 🌱 Sempre construindo projetos pequenos para fixar o que aprendo na prática.
+- 💬 Aberto para estágios e trocar ideia sobre desenvolvimento.
 - 📫 Contato: **leo.euricobete@gmail.com**
 
 ---
@@ -104,15 +104,15 @@ public class Leonardo {
 
 <div align="center">
 
-<img src="https://wakatime.com/badge/user/04390ede-0822-4ccb-b50a-1da351ecb3ad.svg" alt="Tempo total codado"/>
+<img src="https://wakatime.com/badge/user/04390ede-0822-4ccb-b50a-1da351ecb3ad.svg?v=2" alt="Tempo total codado"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-xi-three-25.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Tempo%20por%20linguagem&title_color=E8C87E" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats-xi-three-25.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Tempo%20por%20linguagem&title_color=E8C87E&v=2" alt="WakaTime Stats"/>
 
 </div>
 
-> ℹ️ Os dados começam a aparecer assim que a extensão do WakaTime estiver ativa no editor. Conta criada em agosto de 2026, então o histórico ainda está sendo construído.
+> ℹ️ Estatísticas atualizadas automaticamente pela extensão do WakaTime. O histórico começou em agosto de 2026 e cresce a cada dia de código.
 
 ---
 
@@ -141,7 +141,6 @@ public class Leonardo {
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoMartins-Dev&theme=tokyo-night&hide_border=true&area=true&color=E8C87E&line=E8C87E&point=ffffff" alt="Gráfico de atividade"/>
-
 
 
 ### 💬 Vamos conversar?
