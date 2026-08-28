@@ -108,7 +108,13 @@ public class Leonardo {
 
 <br/><br/>
 
-<img src="https://github-readme-stats-xi-three-25.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Tempo%20por%20linguagem&title_color=E8C87E&v=2" alt="WakaTime Stats"/>
+<img height="200" src="https://github-readme-stats-xi-three-25.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Tempo%20por%20linguagem&title_color=E8C87E&v=2" alt="WakaTime por linguagem"/>
+<img height="200" src="https://github-readme-stats-xi-three-25.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Detalhamento&title_color=E8C87E&v=2" alt="WakaTime detalhado"/>
+
+<br/><br/>
+
+<img height="200" src="https://github-readme-stats-xi-three-25.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&layout=compact&display_format=percent&custom_title=Distribui%C3%A7%C3%A3o%20(%25)&title_color=E8C87E&v=2" alt="WakaTime em porcentagem"/>
+<img height="200" src="https://github-readme-stats-xi-three-25.vercel.app/api/wakatime?username=04390ede-0822-4ccb-b50a-1da351ecb3ad&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&custom_title=Top%204%20linguagens&title_color=E8C87E&v=2" alt="WakaTime top 4"/>
 
 </div>
 
@@ -142,6 +148,7 @@ public class Leonardo {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoMartins-Dev&theme=tokyo-night&hide_border=true&area=true&color=E8C87E&line=E8C87E&point=ffffff" alt="Gráfico de atividade"/>
 
+</div>
 
 ### 💬 Vamos conversar?
 
