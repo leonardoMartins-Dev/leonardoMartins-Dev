@@ -146,13 +146,24 @@ public class Leonardo {
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="300">
+<b>Última música</b><br/><br/>
 <a href="https://open.spotify.com/user/3tdasb8mdo8smwdfxrmjz7jf6" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3tdasb8mdo8smwdfxrmjz7jf6&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&bar_color=E8C87E&bar_color_cover=false" alt="Última música ouvida no Spotify" width="440"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3tdasb8mdo8smwdfxrmjz7jf6&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&bar_color=E8C87E&bar_color_cover=false" alt="Última música ouvida" width="280"/>
 </a>
-
-<br/><br/>
-
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=3tdasb8mdo8smwdfxrmjz7jf6&count=5&width=440&radius=12&unique=1&duration=1&album=1&footer=wave" alt="Ouvidas recentemente" width="440"/>
+</td>
+<td align="center" width="300">
+<b>Top artistas</b><br/><br/>
+<img src="https://widgets.1ceit.com/leonardoMartins-Dev/spotify/top-artists?limit=5&layout=list&range=short_term&theme=github-dark" alt="Top artistas" width="280"/>
+</td>
+<td align="center" width="300">
+<b>Ouvidas recentemente</b><br/><br/>
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=3tdasb8mdo8smwdfxrmjz7jf6&count=5&width=280&radius=12&unique=1&duration=1&album=1" alt="Ouvidas recentemente" width="280"/>
+</td>
+</tr>
+</table>
 
 </div>
 
