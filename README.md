@@ -140,6 +140,22 @@ public class Leonardo {
 
 </div>
 
+---
+
+## 🎧 Ouvindo agora
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/3tdasb8mdo8smwdfxrmjz7jf6" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3tdasb8mdo8smwdfxrmjz7jf6&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&bar_color=E8C87E&bar_color_cover=false" alt="Spotify tocando agora"/>
+</a>
+
+<br/><br/>
+
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=3tdasb8mdo8smwdfxrmjz7jf6&count=5&width=440&radius=12&unique=1&duration=1&album=1&footer=wave" alt="Ouvidas recentemente" width="440"/>
+
+</div>
+
 ## 🐍 Gráfico de contribuições
 
 <div align="center">
