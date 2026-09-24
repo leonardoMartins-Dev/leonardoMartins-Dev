@@ -126,16 +126,16 @@ public class Leonardo {
 
 <div align="center">
 
-<a href="https://github.com/leonardoMartins-Dev/ClimaAPI">
-  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&theme=tokyonight&hide_border=true&title_color=E8C87E&repo=ClimaAPI" alt="ClimaAPI"/>
+<a href="https://github.com/leonardoMartins-Dev/TelaLogin-SpringBoot-">
+  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=TelaLogin-SpringBoot-&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="TelaLogin-SpringBoot"/>
 </a>
 
-<a href="https://github.com/leonardoMartins-Dev/Gestor-de-Funcionarios-CRUD-Python-e-SQLite-">
-  <img src="https://github.com/leonardoMartins-Dev/TelaLogin-SpringBoot-" alt="TelasLogin(SpringBoot)"/>
+<a href="https://github.com/leonardoMartins-Dev/API-s-REST">
+  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=API-s-REST&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="API-s-REST"/>
 </a>
 
-<a href="https://github.com/leonardoMartins-Dev/wanderlust">
-  <img src="https://github.com/leonardoMartins-Dev/Sistema_Hospitalar" alt="SistemaHospitalar"/>
+<a href="https://github.com/leonardoMartins-Dev/Sistema_Hospitalar">
+  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=Sistema_Hospitalar&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="Sistema_Hospitalar"/>
 </a>
 
 </div>
