@@ -131,11 +131,11 @@ public class Leonardo {
 </a>
 
 <a href="https://github.com/leonardoMartins-Dev/Gestor-de-Funcionarios-CRUD-Python-e-SQLite-">
-  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&theme=tokyonight&hide_border=true&title_color=E8C87E&repo=Gestor-de-Funcionarios-CRUD-Python-e-SQLite-" alt="Gestor de Funcionarios - CRUD Python e SQLite"/>
+  <img src="https://github.com/leonardoMartins-Dev/TelaLogin-SpringBoot-" alt="TelasLogin(SpringBoot)"/>
 </a>
 
 <a href="https://github.com/leonardoMartins-Dev/wanderlust">
-  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&theme=tokyonight&hide_border=true&title_color=E8C87E&repo=wanderlust" alt="Wanderlust"/>
+  <img src="https://github.com/leonardoMartins-Dev/Sistema_Hospitalar" alt="SistemaHospitalar"/>
 </a>
 
 </div>
