@@ -136,7 +136,7 @@ public class Leonardo {
     </td>
   </tr>
   <tr>
-    <td align="center">🌐 <a href="[\https://wavehub.onrender.com/login](https://wavehub-fhec.onrender.com/login)">Acessar o site</a></td>
+    <td align="center">🌐 <a href="https://wavehub-fhec.onrender.com/login">Acessar o site</a></td>
   </tr>
   <tr>
     <td align="center">📁 <a href="https://github.com/leonardoMartins-Dev/WaveHub">Repositório no GitHub</a></td>
