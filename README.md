@@ -124,6 +124,25 @@ public class Leonardo {
 
 ## 📌 Projetos em destaque
 
+<table>
+  <tr>
+    <th width="420">🎧 WaveHub — rádios ao vivo do mundo inteiro</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://wavehub.onrender.com/login">
+        <img src="https://raw.githubusercontent.com/leonardoMartins-Dev/WaveHub/main/imgs/wavehub-demo.gif" alt="WaveHub funcionando" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🌐 <a href="https://wavehub.onrender.com/login">Acessar o site</a></td>
+  </tr>
+  <tr>
+    <td align="center">📁 <a href="https://github.com/leonardoMartins-Dev/WaveHub">Repositório no GitHub</a></td>
+  </tr>
+</table>
+
 <div align="center">
 
 <a href="https://github.com/leonardoMartins-Dev/TelaLogin-SpringBoot-">
