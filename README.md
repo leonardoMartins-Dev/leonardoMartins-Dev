@@ -151,7 +151,7 @@ public class Leonardo {
 
 <table>
   <tr>
-    <th width="420">Login — Módulos de Login Completo</th>
+    <th width="420">Login — Módulos de Login Completo(SpringBoot)</th>
   </tr>
   <tr>
     <td align="center">
@@ -161,7 +161,7 @@ public class Leonardo {
     </td>
   </tr>
   <tr>
-    <td align="center">📁 <a href="https://github.com/leonardoMartins-Dev/WaveHub">Repositório no GitHub</a></td>
+    <td align="center">📁 <a href="https://github.com/leonardoMartins-Dev/TelasLogin-SpringBoot-">Repositório no GitHub</a></td>
   </tr>
 </table>
 
