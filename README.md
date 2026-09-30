@@ -149,19 +149,24 @@ public class Leonardo {
 
 <div align="center">
 
-<a href="https://github.com/leonardoMartins-Dev/TelaLogin-SpringBoot-">
-  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=TelaLogin-SpringBoot-&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="TelaLogin-SpringBoot"/>
-</a>
+<table>
+  <tr>
+    <th width="420">Login — Módulos de Login Completo</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/leonardoMartins-Dev/WaveHub">
+        <img src="https://github.com/leonardoMartins-Dev/TelasLogin-SpringBoot-/blob/main/TelaLogin(Thymeleaf)/TelaLogin/imgs/Login.png" alt="WaveHub funcionando" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📁 <a href="https://github.com/leonardoMartins-Dev/WaveHub">Repositório no GitHub</a></td>
+  </tr>
+</table>
 
-<a href="https://github.com/leonardoMartins-Dev/API-s-REST">
-  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=API-s-REST&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="API-s-REST"/>
-</a>
+<br/>
 
-<a href="https://github.com/leonardoMartins-Dev/Sistema_Hospitalar">
-  <img src="https://github-readme-stats-xi-three-25.vercel.app/api/pin/?username=leonardoMartins-Dev&repo=Sistema_Hospitalar&theme=tokyonight&hide_border=true&title_color=E8C87E" alt="Sistema_Hospitalar"/>
-</a>
-
-</div>
 
 ---
 
