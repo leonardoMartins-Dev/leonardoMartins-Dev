@@ -155,8 +155,8 @@ public class Leonardo {
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/leonardoMartins-Dev/WaveHub">
-        <img src="https://github.com/leonardoMartins-Dev/TelasLogin-SpringBoot-/blob/main/TelaLogin(Thymeleaf)/TelaLogin/imgs/Login.png" alt="WaveHub funcionando" width="400"/>
+      <a href="https://github.com/leonardoMartins-Dev/TelasLogin-SpringBoot-">
+        <img src="https://github.com/leonardoMartins-Dev/TelasLogin-SpringBoot-/blob/main/TelaLogin(Thymeleaf)/TelaLogin/imgs/Login.png" alt="Login funcionando" width="400"/>
       </a>
     </td>
   </tr>
