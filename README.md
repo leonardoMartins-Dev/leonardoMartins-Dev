@@ -1,4 +1,4 @@
-x<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Leonardo%20Martins&fontSize=55&fontColor=E8C87E&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20PUC%20Minas&descAlignY=55&descSize=18" alt="header"/>
 
@@ -27,6 +27,18 @@ x<div align="center">
 
 ---
 
+<div align="center">
+
+<a href="https://leomartinsdev.me" target="_blank">
+  <img src="https://img.shields.io/badge/Conhe%C3%A7a%20meu%20portf%C3%B3lio-leomartinsdev.me-E8C87E?style=for-the-badge&labelColor=203a43" alt="Portfólio — leomartinsdev.me"/>
+</a>
+
+<sub><i>Um notebook 3D com um sistema operacional próprio dentro, onde cada seção é um app 💻</i></sub>
+
+</div>
+
+---
+
 ## 👋 Sobre mim
 
 ```java
@@ -36,6 +48,7 @@ public class Leonardo {
     private final String curso       = "Engenharia de Software";
     private final String faculdade   = "PUC Minas";
     private final String localizacao = "Belo Horizonte, MG - Brasil";
+    private final String portfolio   = "leomartinsdev.me";
     private final int    inicioCurso = 2026;
 
     public String[] focoAtual() {
@@ -147,16 +160,14 @@ public class Leonardo {
 
 <br/>
 
-<div align="center">
-
 <table>
   <tr>
-    <th width="420">Login — Módulos de Login Completo(SpringBoot)</th>
+    <th width="420">🔐 Login — Módulos de Login Completo (Spring Boot)</th>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/leonardoMartins-Dev/TelasLogin-SpringBoot-">
-        <img src="https://github.com/leonardoMartins-Dev/TelasLogin-SpringBoot-/blob/main/TelaLogin(Thymeleaf)/TelaLogin/imgs/Login.png" alt="Login funcionando" width="400"/>
+        <img src="https://raw.githubusercontent.com/leonardoMartins-Dev/TelasLogin-SpringBoot-/main/TelaLogin(Thymeleaf)/TelaLogin/imgs/Login.png" alt="Login funcionando" width="400"/>
       </a>
     </td>
   </tr>
@@ -167,6 +178,9 @@ public class Leonardo {
 
 <br/>
 
+➕ Veja mais projetos no meu <a href="https://leomartinsdev.me"><b>portfólio</b></a>
+
+</div>
 
 ---
 
@@ -195,6 +209,8 @@ public class Leonardo {
 
 </div>
 
+---
+
 ## 🐍 Gráfico de contribuições
 
 <div align="center">
@@ -205,12 +221,19 @@ public class Leonardo {
 
 </div>
 
+---
+
+<div align="center">
+
 ### 💬 Vamos conversar?
 
 Estou sempre aberto a trocar ideias, receber feedback e colaborar em projetos.
 
 <a href="https://www.linkedin.com/in/leonardo-martins-macedo-036969401/" target="_blank">
   <img src="https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leomartinsdev.me" target="_blank">
+  <img src="https://img.shields.io/badge/Visite%20meu%20portf%C3%B3lio-E8C87E?style=for-the-badge" alt="Portfólio"/>
 </a>
 
 <br/><br/>
