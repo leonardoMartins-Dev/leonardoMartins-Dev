@@ -53,7 +53,9 @@ public class Leonardo {
 
     public String[] focoAtual() {
         return new String[] {
+            "Dev Full-Stack"
             "Back-end com Java e Spring Boot",
+            "Front-end React e vite"
             "Modelagem e consultas em bancos de dados",
             "Boas práticas de código e versionamento com Git"
         };
