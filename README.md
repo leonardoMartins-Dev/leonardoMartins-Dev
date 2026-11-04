@@ -142,7 +142,7 @@ public class Leonardo {
 <div align="center">
 <table>
   <tr>
-    <th width="420">🎧 WaveHub — rádios ao vivo do mundo inteiro</th>
+    <th width="420">🚗 Aluguel de Carros 👨‍💻</th>
   </tr>
   <tr>
     <td align="center">
