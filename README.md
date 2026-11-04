@@ -146,8 +146,8 @@ public class Leonardo {
   </tr>
   <tr>
     <td align="center">
-      <a href="https://wavehub-fhec.onrender.com/login">
-        <img src="https://raw.githubusercontent.com/leonardoMartins-Dev/WaveHub/main/imgs/2026-09-29%2013-07-57.gif" alt="WaveHub funcionando"           width="400"/>
+      <a href="https://github.com/leonardoMartins-Dev/Sistema_de_Aluguel_de_Carros">
+        <img src="https://github.com/leonardoMartins-Dev/Sistema_de_Aluguel_de_Carros/blob/main/imgs/Gravac%CC%A7a%CC%83o%20de%20Tela%202026-11-04%20a%CC%80s%2011.57.39.gif?raw=true" alt="Sistema funcionando"           width="400"/>
       </a>
     </td>
   </tr>
