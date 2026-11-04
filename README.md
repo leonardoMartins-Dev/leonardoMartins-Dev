@@ -140,6 +140,23 @@ public class Leonardo {
 ## 📌 Projetos em destaque
 
 <div align="center">
+<table>
+  <tr>
+    <th width="420">🎧 WaveHub — rádios ao vivo do mundo inteiro</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://wavehub-fhec.onrender.com/login">
+        <img src="https://raw.githubusercontent.com/leonardoMartins-Dev/WaveHub/main/imgs/2026-09-29%2013-07-57.gif" alt="WaveHub funcionando"           width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📁 <a href="https://github.com/leonardoMartins-Dev/Sistema_de_Aluguel_de_Carros">Repositório no GitHub</a></td>
+  </tr>
+</table>
+
+<br/>
 
 <table>
   <tr>
