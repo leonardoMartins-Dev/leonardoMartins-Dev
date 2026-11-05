@@ -146,10 +146,13 @@ public class Leonardo {
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/leonardoMartins-Dev/Sistema_de_Aluguel_de_Carros">
+      <a href="https://sistema-de-aluguel-de-carros-ecru.vercel.app/login">
         <img src="https://github.com/leonardoMartins-Dev/Sistema_de_Aluguel_de_Carros/blob/main/imgs/Gravac%CC%A7a%CC%83o%20de%20Tela%202026-11-04%20a%CC%80s%2011.57.39.gif?raw=true" alt="Sistema funcionando"           width="400"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">🌐 <a href="https://sistema-de-aluguel-de-carros-ecru.vercel.app/login">Acessar o site</a></td>
   </tr>
   <tr>
     <td align="center">📁 <a href="https://github.com/leonardoMartins-Dev/Sistema_de_Aluguel_de_Carros">Repositório no GitHub</a></td>
